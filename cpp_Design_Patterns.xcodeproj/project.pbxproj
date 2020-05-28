@@ -57,9 +57,25 @@
 		7AE09986247FC81E0020F928 /* cpp_Design_Patterns */ = {
 			isa = PBXGroup;
 			children = (
+				7AE0998F247FDC250020F928 /* test */,
+				7AE0998E247FD88D0020F928 /* src */,
 				7AE09987247FC81E0020F928 /* main.cpp */,
 			);
 			path = cpp_Design_Patterns;
+			sourceTree = "<group>";
+		};
+		7AE0998E247FD88D0020F928 /* src */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		7AE0998F247FDC250020F928 /* test */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = test;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
